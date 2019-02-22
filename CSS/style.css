@@ -1,11 +1,11 @@
 body{
-background-image:url(../images/BACKGROUND1.jpg);
+background-image:url(../Images/BACKGROUND1.jpg);
 background-position:top;
 background-repeat:repeat;
 }
 
 footer{
-background-image:url(../images/foot.jpg);
+background-image:url(../Images/foot.jpg);
 background-position:top;
 background-repeat:no-repeat;
 padding:15px;
